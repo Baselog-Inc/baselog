@@ -1,6 +1,6 @@
 # Baselog
 
-**Baselog** is the main entry point to the [Loggy](https://github.com/Baselog-Inc) ecosystem.  
+**Baselog** is the main entry point to the [Baselog](https://github.com/Baselog-Inc) ecosystem.  
 It provides a modern web interface to **collect, search, and visualize logs** from all your applications.  
 
 ## Features
